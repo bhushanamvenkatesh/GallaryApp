@@ -1,0 +1,19 @@
+/* Write your code here. */
+.image {
+  height: 400px;
+  width: 600px;
+}
+.app-container {
+  margin: 25px;
+}
+p {
+  color: #64748b;
+}
+
+* {
+  font-family: roboto;
+}
+.thumbnail-list {
+  display: flex;
+  list-style: none;
+}

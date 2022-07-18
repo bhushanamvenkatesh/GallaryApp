@@ -1,0 +1,19 @@
+/* Write your code here. */
+.image-list {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+.opacity {
+  opacity: 0.5;
+}
+
+.list-item {
+  margin-left: 0px;
+}
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
